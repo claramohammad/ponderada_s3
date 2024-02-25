@@ -1,16 +1,16 @@
 # ponderada_s3
 
 
-<img src= "../Screenshot 2024-02-23 233744.png">
+![imagem1](1.png)
 
-<img src= "../Screenshot 2024-02-23 234330.png">
+![imagem2](2.png)
 
-<img src= "../Screenshot 2024-02-23 235544.png">
+![imagem3](3.png)
 
-<img src= "../Screenshot 2024-02-23 235906.png">
+![imagem4](4.png)
 
-<img src= "../Screenshot 2024-02-23 000154.png">
+![imagem5](5.png)
 
-<img src= "../Screenshot 2024-02-23 000356.png">
+![imagem6](6.png)
 
-<img src= "../Screenshot 2024-02-23 000448.png">
+![imagem7](7.png)
